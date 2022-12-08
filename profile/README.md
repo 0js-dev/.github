@@ -27,4 +27,4 @@ Create Web Components with `zero package dependencies`.
 - Frameworks add extra weight to your app
 - Frameworks are not performant on mobile
 - Migrating to a new framework is painful
-- Any given framework may be dead in `5 years`
+- Any given framework may be `dead in 5 years`
